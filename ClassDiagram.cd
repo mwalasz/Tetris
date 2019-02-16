@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Board" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAAAQCAACAAAAABAAIAAMAAABEEQAAAERAAUCABCAA=</HashCode>
+      <FileName>board.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brick" Collapsed="true">
+    <Position X="1.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAhCAAAAACCBAAYIAACBAAAAAAAAAAAEAAQ=</HashCode>
+      <FileName>brick.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Draw" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAYAAAAAAAgECAAAAAAAAEQCEACCEIAAABAgAABA=</HashCode>
+      <FileName>draw.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Results" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIgAAAAAgBAAAASACAACAFABAQAAAgAAgEAAAA=</HashCode>
+      <FileName>results.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sound" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAIAAAABAAAAAQAAAEAAAACAEAAABAAEAAAAAAA=</HashCode>
+      <FileName>sound.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Level" Collapsed="true">
+    <Position X="3.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAggAAAAAAAAAAQQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>definitions.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Actions" Collapsed="true">
+    <Position X="1.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>definitions.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Sounds" Collapsed="true">
+    <Position X="5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAEAAAAAAAAAAAAAAAAAAAEAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>definitions.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
