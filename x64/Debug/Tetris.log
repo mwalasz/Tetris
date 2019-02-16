@@ -1,5 +1,0 @@
-﻿board.obj : error LNK2019: nierozpoznany zewnętrzny symbol TTF_Init przywołany w funkcji "public: void __cdecl Board::DrawBoard(struct SDL_Renderer *)" (?DrawBoard@Board@@QEAAXPEAUSDL_Renderer@@@Z)
-board.obj : error LNK2019: nierozpoznany zewnętrzny symbol TTF_OpenFont przywołany w funkcji "public: void __cdecl Board::DrawBoard(struct SDL_Renderer *)" (?DrawBoard@Board@@QEAAXPEAUSDL_Renderer@@@Z)
-board.obj : error LNK2019: nierozpoznany zewnętrzny symbol TTF_RenderText_Solid przywołany w funkcji "public: void __cdecl Board::DrawBoard(struct SDL_Renderer *)" (?DrawBoard@Board@@QEAAXPEAUSDL_Renderer@@@Z)
-D:\Studia\vcpkg\installed\x64-windows\debug\lib\SDL2_ttf.lib : warning LNK4272: wystąpił konflikt typu maszyny biblioteki „x86” z typem maszyny docelowej „x64”
-D:\Studia\przedmioty\semestr 3\PK3\lab\f576410c-gr32-repo\Projekt\x64\Debug\Tetris.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 3
